@@ -1,0 +1,20 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString1
+  description: MyText
+  image_url: MyString
+  price: 9.99
+
+two:
+  title: MyString2z
+  description: MyText
+  image_url: MyString
+  price: 9.99
+
+ruby:
+  title: Programming Ruby 1.98
+  description:
+    Ruby is...
+  price: 49.50
+  image_url: ruby.png
